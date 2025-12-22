@@ -1,2 +1,2 @@
-# Python_autotest.
+# Python_autotest
 Репа с моим обучением.
